@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddc7509a-f064-4c28-a882-4a6043b1f565" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XoT4oLweBsAztktRjziwagmxq3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Kotlin.InterfacesKtJava.MainKt">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1.Program" />
+      <module name="ex1Celia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ex1Celia" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Ex2.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfacesKtJava.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ex1Celia" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InterfacesKtJava.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.InterfacesKtJava.MainKt" />
+        <item itemvalue="Kotlin.Ex2.MainKt" />
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddc7509a-f064-4c28-a882-4a6043b1f565" name="Default Changelist" comment="" />
+      <created>1581711259884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581711259884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure" timestamp="1581711551506">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1581711551506" />
+    <state x="524" y="115" width="628" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1581723590000">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="628" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1581723590000" />
+    <state width="1257" height="177" key="GridCell.Tab.0.bottom" timestamp="1581726100673">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1257" height="177" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581726100673" />
+    <state width="1257" height="177" key="GridCell.Tab.0.center" timestamp="1581726100671">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1257" height="177" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581726100671" />
+    <state width="1257" height="177" key="GridCell.Tab.0.left" timestamp="1581726100670">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1257" height="177" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581726100670" />
+    <state width="1257" height="177" key="GridCell.Tab.0.right" timestamp="1581726100672">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1257" height="177" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581726100672" />
+    <state x="228" y="31" key="SettingsEditor" timestamp="1581713346364">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="228" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581713346364" />
+    <state x="490" y="103" width="442" height="587" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1581723485693">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="490" y="103" width="442" height="587" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1581723485693" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581713310614">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1581713310614" />
+  </component>
+</project>
